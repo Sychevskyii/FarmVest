@@ -1218,6 +1218,10 @@ body {
   .download__body {
     padding-right: 1.875rem;
   }
+  
+  .download__app {
+    z-index: 5:
+  }
 
   .download__title:not(:last-child) {
     margin-bottom: 3.0625rem;
